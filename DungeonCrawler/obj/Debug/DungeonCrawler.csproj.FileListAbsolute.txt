@@ -1,0 +1,6 @@
+c:\users\grimdeath\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe.config
+c:\users\grimdeath\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.exe
+c:\users\grimdeath\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\bin\Debug\DungeonCrawler.pdb
+c:\users\grimdeath\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.csprojResolveAssemblyReference.cache
+c:\users\grimdeath\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.exe
+c:\users\grimdeath\documents\visual studio 2015\Projects\DungeonCrawler\DungeonCrawler\obj\Debug\DungeonCrawler.pdb
